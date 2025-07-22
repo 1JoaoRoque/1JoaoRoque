@@ -36,7 +36,8 @@ Sou apaixonado por tecnologia e estou trilhando minha jornada na área de desenv
 
 - ✅ **Algoritmos** – Curso em Vídeo – *2025*  
 - ✅ **Java Básico** – Curso em Vídeo – *2025*
-
+- ✅ **GIT E GITHUB** – Curso em Vídeo – *2025*
+- ✅ **JavaScript** – Curso em Vídeo – *2025*
 ---
 
 ## 📈 Em evolução
